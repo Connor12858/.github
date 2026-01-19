@@ -11,30 +11,16 @@
 ---
 
 ## About
-- Backend-first mindset
-- Interested in systems, performance, and stuff under the hood
-- Automotive background influences how I think about engineering
-- Always building something, even if it’s not public yet
-
-I care more about **clean logic, reliability, and learning fast** than chasing buzzwords.
+Backend-first developer with an interest in systems, performance, and how things behave under real load.  
+Automotive background shapes how I approach engineering: diagnose first, optimize second, ship when it’s solid.  
+Always building something, even if it never makes it to a public repo.
 
 ---
 
 ## Tech
-**Languages**
-- Python
-- C / C++
-- Bash
-
-**Focus**
-- Backend architecture
-- Networking & low-level concepts
-- Automation & tooling
-
-**Interests**
-- Automotive engineering
-- Performance tuning (code and machines)
-- Breaking things to understand them
+**Languages:** Python, C/C++, Bash  
+**Focus:** Backend architecture, networking, low-level concepts, automation  
+**Interests:** Automotive engineering, performance tuning, breaking things to understand them
 
 ---
 
@@ -42,24 +28,16 @@ I care more about **clean logic, reliability, and learning fast** than chasing b
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Connor12858&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connor12858&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Connor12858&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+</p>>
 
 <p align="center">
   <sub>
-    These stats don’t mean everything. Private repos, offline projects, school/work code,
-    and actual problem-solving don’t always show up here. Look at the work, not just the numbers.
+    Stats don’t tell the full story. Private repos, offline projects, school/work code,
+    and actual problem-solving don’t always show up here. Judge the work, not the scoreboard.
   </sub>
 </p>
 
 ---
 
 ## Open to
-- Collaborations
-- Interesting backend problems
-- Anything that teaches me something new
-
-If it’s challenging or technical, I’m probably into it.
+Collaborations, challenging backend problems, and anything that forces me to learn something new.
