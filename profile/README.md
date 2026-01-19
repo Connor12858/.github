@@ -28,7 +28,7 @@ Always building something, even if it never makes it to a public repo.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Connor12858&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Connor12858&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>>
+</p>
 
 <p align="center">
   <sub>
